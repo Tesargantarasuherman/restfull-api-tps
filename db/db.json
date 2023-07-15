@@ -20,8 +20,8 @@
       { "id": 1, "body": "some comment", "productId": 1 }
     ],
     "type": [
-      { "id": 1, "name": "Trip" },
-      { "id": 2, "name": "Guide" }
+      { "id": 1, "name": "Trip" ,"typeId":1},
+      { "id": 2, "name": "Guide","typeId":2 }
     ],
     "profile": { "name": "typicode" }
   }
