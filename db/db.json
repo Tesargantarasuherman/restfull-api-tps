@@ -2,6 +2,7 @@
     "products": [
     { 
         "id": 1,
+        "type_id":1,
         "name": "open trip gatot kaca ",
         "description": "open bersama trip gatot kaca ",
         "promoter": "gatot kaca adventure",
@@ -17,6 +18,10 @@
     ],
     "promoter": [
       { "id": 1, "body": "some comment", "productId": 1 }
+    ],
+    "type": [
+      { "id": 1, "name": "Trip" },
+      { "id": 2, "name": "Guide" }
     ],
     "profile": { "name": "typicode" }
   }
