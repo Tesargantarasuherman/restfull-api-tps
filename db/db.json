@@ -2,7 +2,7 @@
     "products": [
     { 
         "id": 1,
-        "typeId":1,
+        "type":"Trip",
         "name": "open trip gatot kaca ",
         "description": "open bersama trip gatot kaca ",
         "promoter": "gatot kaca adventure",
