@@ -132,6 +132,7 @@
     "participant":[
         {
             "productId":1,
+            "total_slot":10,
             "list_participant":[
                 {
                     "id" :1,
