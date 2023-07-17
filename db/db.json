@@ -128,5 +128,18 @@
       { "id": 1, "name": "Trip" ,"typeId":1},
       { "id": 2, "name": "Guide","typeId":2 }
     ],
-    "profile": { "name": "typicode" }
+    "profile": { "name": "typicode" },
+    "participant":[
+        {
+            "productId":1,
+            "list_participant":[
+                {
+                    "id" :1,
+                    "nama":"Santi",
+                    "ticket_number":"DX08181"
+                }
+            ]
+        }
+        
+    ]
   }
