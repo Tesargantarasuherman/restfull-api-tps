@@ -10,6 +10,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1536077891673-5a03ebcd8ebe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -25,6 +26,7 @@
         "end_date":"2023-08-02",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1531975474574-e9d2732e8386?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -40,6 +42,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1523592121529-f6dde35f079e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -55,6 +58,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1505993597083-3bd19fb75e57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2350&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -70,6 +74,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1605860632725-fa88d0ce7a07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -85,6 +90,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1550033588-6f3e54613d6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1035&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -100,6 +106,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1600257806862-a44adf7c6cda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -115,6 +122,7 @@
         "end_date":"2023-08-15",
         "location":"Semeru,Lumajang",
         "price":500000,
+        "total_slot":10,
         "images":[
             "https://images.unsplash.com/photo-1518070588484-2b53926cba76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
             "https://images.unsplash.com/photo-1588179989367-a7437bd69d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2348&q=80"
@@ -132,7 +140,6 @@
     "participant":[
         {
             "productId":1,
-            "total_slot":10,
             "list_participant":[
                 {
                     "id" :1,
