@@ -137,7 +137,8 @@
       { "id": 2, "name": "Guide","typeId":2 }
     ],
     "profile": { "name": "typicode" },
-    "participant":{
+    "participant":[
+        {
             "productId":1,
             "list_participant":[
                 {
@@ -147,4 +148,6 @@
                 }
             ]
         }
+        
+    ]
   }
