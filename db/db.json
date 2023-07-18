@@ -149,5 +149,13 @@
             ]
         }
         
+    ],
+    "user":[
+        {
+        "id":1,
+        "name":"Santi",
+        "email":"santi@gmail.com",
+        "password":"1234567890"
+        }
     ]
   }
