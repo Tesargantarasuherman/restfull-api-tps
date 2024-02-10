@@ -67099,5 +67099,157 @@
             "lat": "-6.904933468513860",
             "lon": "107.67553280195000"
         }
+    ],
+    "kecamatan":[
+        {
+            "id": "3119",
+            "nama_kecamatan": "Andir",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3124",
+            "nama_kecamatan": "Astana Anyar",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3134",
+            "nama_kecamatan": "Antapani",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3138",
+            "nama_kecamatan": "Arcamanik",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3117",
+            "nama_kecamatan": "Babakan Ciparay",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3135",
+            "nama_kecamatan": "Bandung Kidul",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3129",
+            "nama_kecamatan": "Bandung Kulon",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3123",
+            "nama_kecamatan": "Bandung Wetan",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3126",
+            "nama_kecamatan": "Batununggal",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3118",
+            "nama_kecamatan": "Bojongloa Kaler",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3131",
+            "nama_kecamatan": "Bojongloa Kidul",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3136",
+            "nama_kecamatan": "Buahbatu",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3132",
+            "nama_kecamatan": "Cibeunying Kaler",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3128",
+            "nama_kecamatan": "Cibeunying Kidul",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3139",
+            "nama_kecamatan": "Cibiru",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3120",
+            "nama_kecamatan": "Cicendo",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3122",
+            "nama_kecamatan": "Cidadap",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3143",
+            "nama_kecamatan": "Cinambo",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3116",
+            "nama_kecamatan": "Coblong",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3141",
+            "nama_kecamatan": "Gedebage",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3130",
+            "nama_kecamatan": "Kiaracondong",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3127",
+            "nama_kecamatan": "Lengkong",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3144",
+            "nama_kecamatan": "Mandalajati",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3142",
+            "nama_kecamatan": "Panyileukan",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3137",
+            "nama_kecamatan": "Rancasari",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3125",
+            "nama_kecamatan": "Regol",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3121",
+            "nama_kecamatan": "Sukajadi",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3115",
+            "nama_kecamatan": "Sukasari",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3133",
+            "nama_kecamatan": "Sumur Bandung",
+            "kode_kemendagri": ""
+        },
+        {
+            "id": "3140",
+            "nama_kecamatan": "Ujungberung",
+            "kode_kemendagri": ""
+        }
     ]
   }
