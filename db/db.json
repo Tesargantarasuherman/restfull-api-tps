@@ -42822,12 +42822,9 @@
             "id_kecamatan": "3131",
             "kelurahan": "39302-KEBON LEGA",
             "noTps": "39302059-TPS 059",
-            "alamat": "\"Rumah Ko Sensen "
-        },
-        {
-            "kecamatan": " JL.Karasak Lama No.11/27 Rt02 Rw.09\"",
-            "id_kecamatan": "-6.948792",
-            "kelurahan": "107.603001"
+            "alamat": "Rumah Ko Sensen  JL.Karasak Lama No.11/27 Rt02 Rw.09",
+            "lat": "-6.948792",
+            "lon": "107.603001"
         },
         {
             "kecamatan": "3131-BOJONGLOA KIDUL",
