@@ -60381,12 +60381,9 @@
             "id_kecamatan": "3140",
             "kelurahan": "39343-PASANGGRAHAN",
             "noTps": "39343022-TPS 022",
-            "alamat": "\"Jl. Maruyung no. 120 kampung paledanJl.Maruyung No.120 Kp.Paledang Kel.Pasanggrahan Kec.Ujungberung Kota.Bandung Prov.Jawa Barat"
-        },
-        {
-            "kecamatan": "\"",
-            "id_kecamatan": "-6.9097786",
-            "kelurahan": "107.7124525"
+            "alamat": "Jl. Maruyung no. 120 kampung paledanJl.Maruyung No.120 Kp.Paledang Kel.Pasanggrahan Kec.Ujungberung Kota.Bandung Prov.Jawa Barat",
+            "lat": "-6.9097786",
+            "lon": "107.7124525"
         },
         {
             "kecamatan": "3140-UJUNGBERUNG",
