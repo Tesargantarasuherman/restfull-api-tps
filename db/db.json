@@ -60192,12 +60192,9 @@
             "id_kecamatan": "3140",
             "kelurahan": "39343-PASANGGRAHAN",
             "noTps": "39343001-TPS 001",
-            "alamat": "\"Jl. Kp.Andir Tengah No.33 RT.01 RW.01 Kel.Pasanggrahan Kec.Ujungberung Kota Bandung (Lapangan Pa RT)"
-        },
-        {
-            "kecamatan": "\"",
-            "id_kecamatan": "-6.9185512",
-            "kelurahan": "107.7089254"
+            "alamat": "Jl. Kp.Andir Tengah No.33 RT.01 RW.01 Kel.Pasanggrahan Kec.Ujungberung Kota Bandung (Lapangan Pa RT)",
+            "lat": "-6.9185512",
+            "lon": "107.7089254"
         },
         {
             "kecamatan": "3140-UJUNGBERUNG",
